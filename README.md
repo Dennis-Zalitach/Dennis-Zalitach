@@ -1,0 +1,5 @@
+# About Me
+## Career & Education
+I graduated with a BSc (Mathematics major, Computing Science minor) from the University of Alberta in 2024, worked in the 2021 Canadian federal election as a service agent at the Edmonton Griesbach returning office, and worked for Elections Alberta in 2023 both on the special ballot team during the election and in data entry post-election. I'm currently the temporary instructor for computer classes offered by the Cerebral Palsy Association in Alberta, where we coach clients with CP on basic computer literacy both online and in-person.
+## Skills and Tech Background
+I learned Python both on my own in high school and more formally during my undergrad. Though I focused primarily on theory during my degree due to my mathematical interests, I also took beginner courses in C and computer architecture (Assembly), and developed a simple hand analyzer for the card game cribbage in Python as a class project.
